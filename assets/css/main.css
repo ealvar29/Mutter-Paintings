@@ -948,10 +948,10 @@ input, select, textarea {
 		flex-wrap: wrap;
 		padding: 0 0.75em;
 	}
-
+------------------------------------------------------------------------------------ /* commented out line 954 */
 		#thumbnails article {
 			position: relative;
-			width: 50%;
+			/*width: 50%; */
 			background: #101010;
 			outline: 0;
 		}
